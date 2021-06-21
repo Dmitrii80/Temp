@@ -1,0 +1,19 @@
+# folder
+.idea/*
+out/*
+src/GUIJavaFX/*
+src/GUISwing/*
+src/main/*
+src/META-INF/*
+
+# files
+encode.txt
+HerbertSchildt.iml
+
+# class files
+*.class
+
+# package
+*.war
+*.jar
+*.ear
