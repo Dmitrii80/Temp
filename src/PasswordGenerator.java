@@ -73,7 +73,7 @@ public class PasswordGenerator {
     }
 
     /**
-     * This method for clear the Console screen
+     * This method for clear the Console screen!
      */
     public static void clearConsole() {
         try {
